@@ -64,7 +64,7 @@ under the License.
 		<dependency>
 			<groupId>com.twitter</groupId>
 			<artifactId>chill-java</artifactId>
-			<version>${chill.version}</version>
+			<version>0.7.6</version>
 		</dependency>
 
 		<!-- test dependencies -->
