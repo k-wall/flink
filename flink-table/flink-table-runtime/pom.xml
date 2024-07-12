@@ -172,6 +172,9 @@ under the License.
 									<include>org.codehaus.janino:*</include>
 									<include>org.apache.flink:flink-table-code-splitter</include>
 								</includes>
+								<excludes>
+									<exclude>tools.profiler:*</exclude>
+								</excludes>
 							</artifactSet>
 							<relocations>
 								<!-- Make sure com.jayway and com.fasterxml relocations match the relocations in planner pom  -->
