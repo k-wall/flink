@@ -716,6 +716,7 @@ under the License.
 								<excludes>
 									<!-- log4j 2 is bundled separately from the flink-dist jar -->
 									<exclude>org.apache.logging.log4j:*</exclude>
+									<exclude>tools.profiler:*</exclude>
 								</excludes>
 							</artifactSet>
 						</configuration>
