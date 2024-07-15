@@ -220,6 +220,7 @@ under the License.
 			<groupId>tools.profiler</groupId>
 			<artifactId>async-profiler</artifactId>
 			<version>2.9</version>
+			<optional>true</optional>
 		</dependency>
 
 		<!-- Lz4 compression library -->
