@@ -191,7 +191,7 @@ under the License.
 					<compilerPlugins combine.children="append">
 					   <compilerPlugin>
 						   <groupId>org.scalamacros</groupId>
-						   <artifactId>paradise_2.12.15</artifactId>
+						   <artifactId>paradise_${scala.version}</artifactId>
 						   <version>${scala.macros.version}</version>
 					   </compilerPlugin>
 				   </compilerPlugins>
