@@ -333,7 +333,7 @@ under the License.
 			<dependency>
 				<groupId>org.apache.flink</groupId>
 				<artifactId>flink-shaded-asm-9</artifactId>
-				<version>9.5.0-17.0</version>
+				<version>9.5-17.0</version>
 			</dependency>
 
 			<dependency>
