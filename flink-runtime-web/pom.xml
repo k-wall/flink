@@ -271,7 +271,6 @@ under the License.
 							<arguments>ci --cache-max=0 --no-save ${npmArgs}</arguments>
 							<environmentVariables>
 								<HUSKY_SKIP_INSTALL>true</HUSKY_SKIP_INSTALL>
-								<NODE_TLS_REJECT_UNAUTHORIZED>0</NODE_TLS_REJECT_UNAUTHORIZED>
 							</environmentVariables>
 						</configuration>
 					</execution>
